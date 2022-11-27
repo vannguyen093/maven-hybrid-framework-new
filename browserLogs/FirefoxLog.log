@@ -1,0 +1,10 @@
+1669564817973	geckodriver	INFO	Listening on 127.0.0.1:37967
+1669564818782	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Van Nguyen\\AppData\\Local\\Temp\\rust_mozprofileOm53JY"
+1669564819159	Marionette	INFO	Marionette enabled
+1669564819165	Marionette	INFO	Listening on port 50516
+Read port: 50516
+1669564819408	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Van Nguyen\\AppData\\Local\\Temp\\rust_mozprofileOm53JY\\search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://demo.nopcommerce.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://demo.nopcommerce.com."
+1669564830121	Marionette	INFO	Stopped listening on port 50516
