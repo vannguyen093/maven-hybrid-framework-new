@@ -1,0 +1,30 @@
+[2022-11-28 09:53:26,370] Register - Step 01: Click to 'Register' link
+[2022-11-28 09:53:27,482] Register - Step 02: Click to 'Radio' button with value 'Male'
+[2022-11-28 09:53:27,792] Register - Step 03: Enter to First Name textbox with value is Rudy
+[2022-11-28 09:53:27,885] Register - Step 04: Enter to Last Name textbox with value is Krajcik
+[2022-11-28 09:53:27,981] Register - Step 05: Select date in Day dropdown with value is 30
+[2022-11-28 09:53:28,325] Register - Step 06: Select month in Month dropdown with value is May
+[2022-11-28 09:53:28,653] Register - Step 07: Select year in Year dropdown with value is 1993
+[2022-11-28 09:53:28,982] Register - Step 08: Enter to Email textbox with value is christene.bahringer@hotmail.com
+[2022-11-28 09:53:29,085] Register - Step 09: Enter to Password textbox with value is 466pad9g3v7i1
+[2022-11-28 09:53:29,174] Register - Step 10: Enter to Confirm Password textbox with value is 466pad9g3v7i1
+[2022-11-28 09:53:29,266] Register - Step 11: Click to 'News letter' checkbox
+[2022-11-28 09:53:29,328] Register - Step 12: Click to 'Register' button
+[2022-11-28 09:53:30,108] Register - Step 13: Verify the 'Success Message' is displayed
+[2022-11-28 09:53:30,162]  -------------------------- PASSED -------------------------- 
+[2022-11-28 09:53:30,163] Register - Step 14: Click to 'Log out' link
+[2022-11-28 09:53:30,947] Login - Step 01: Click to 'Login' link
+[2022-11-28 09:53:31,441] Login - Step 02: Enter to Email textbox with value is christene.bahringer@hotmail.com
+[2022-11-28 09:53:31,535] Login - Step 03: Enter to Password textbox with value is 466pad9g3v7i1
+[2022-11-28 09:53:31,624] Login - Step 04: Click to 'Login' button
+[2022-11-28 09:53:32,307] My Account - Step 01: Click to 'My Account' link
+[2022-11-28 09:53:32,804] My Account - Step 02: Verify 'Customer Info' page is displayed
+[2022-11-28 09:53:32,865]  -------------------------- PASSED -------------------------- 
+[2022-11-28 09:53:32,865] My Account - Step 03: Verify 'First Name' value is correctly
+[2022-11-28 09:53:32,923]  -------------------------- PASSED -------------------------- 
+[2022-11-28 09:53:32,923] My Account - Step 03: Verify 'Last Name' value is correctly
+[2022-11-28 09:53:32,985]  -------------------------- PASSED -------------------------- 
+[2022-11-28 09:53:32,985] My Account - Step 03: Verify 'Email' value is correctly
+[2022-11-28 09:53:33,049]  -------------------------- PASSED -------------------------- 
+[2022-11-28 09:53:33,052] OS name = windows 11
+[2022-11-28 09:53:33,052] Driver instance name = firefoxdriver: firefox on windows (a8a33fbf-2cec-48af-ab84-e877f76213c2)

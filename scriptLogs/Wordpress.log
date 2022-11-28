@@ -1,0 +1,92 @@
+[2022-11-27 23:00:23,185] Register - Step 01: Click to 'Register' link
+[2022-11-27 23:00:24,298] Register - Step 02: Click to 'Radio' button with value 'Male'
+[2022-11-27 23:00:24,610] Register - Step 03: Enter to First Name textbox with value is Zana
+[2022-11-27 23:00:24,705] Register - Step 04: Enter to Last Name textbox with value is Gislason
+[2022-11-27 23:00:24,800] Register - Step 05: Select date in Day dropdown with value is 30
+[2022-11-27 23:00:25,289] Register - Step 06: Select month in Month dropdown with value is May
+[2022-11-27 23:00:25,616] Register - Step 07: Select year in Year dropdown with value is 1993
+[2022-11-27 23:00:25,931] Register - Step 08: Enter to Email textbox with value is jenny.schulist@gmail.com
+[2022-11-27 23:00:26,030] Register - Step 09: Enter to Password textbox with value is di23ytakz9os1xb
+[2022-11-27 23:00:26,123] Register - Step 10: Enter to Confirm Password textbox with value is di23ytakz9os1xb
+[2022-11-27 23:00:26,216] Register - Step 11: Click to 'News letter' checkbox
+[2022-11-27 23:00:26,266] Register - Step 12: Click to 'Register' button
+[2022-11-27 23:00:27,058] Register - Step 13: Verify the 'Success Message' is displayed
+[2022-11-27 23:00:27,106]  -------------------------- PASSED -------------------------- 
+[2022-11-27 23:00:27,106] Register - Step 14: Click to 'Log out' link
+[2022-11-27 23:00:27,910] Login - Step 01: Click to 'Login' link
+[2022-11-27 23:00:28,431] Login - Step 02: Enter to Email textbox with value is jenny.schulist@gmail.com
+[2022-11-27 23:00:28,529] Login - Step 03: Enter to Password textbox with value is di23ytakz9os1xb
+[2022-11-27 23:00:28,627] Login - Step 04: Click to 'Login' button
+[2022-11-27 23:00:29,340] My Account - Step 01: Click to 'My Account' link
+[2022-11-27 23:00:29,849] My Account - Step 02: Verify 'Customer Info' page is displayed
+[2022-11-27 23:00:29,910]  -------------------------- PASSED -------------------------- 
+[2022-11-27 23:00:29,910] My Account - Step 03: Verify 'First Name' value is correctly
+[2022-11-27 23:00:29,968]  -------------------------- PASSED -------------------------- 
+[2022-11-27 23:00:29,968] My Account - Step 03: Verify 'Last Name' value is correctly
+[2022-11-27 23:00:30,031]  -------------------------- PASSED -------------------------- 
+[2022-11-27 23:00:30,031] My Account - Step 03: Verify 'Email' value is correctly
+[2022-11-27 23:00:30,094]  -------------------------- PASSED -------------------------- 
+[2022-11-27 23:00:30,097] OS name = windows 11
+[2022-11-27 23:00:30,097] Driver instance name = firefoxdriver: firefox on windows (08b52c92-e7fb-4113-8639-3b0bb4ebc0b4)
+[2022-11-28 09:48:00,093] Register - Step 01: Click to 'Register' link
+[2022-11-28 09:48:01,174] Register - Step 02: Click to 'Radio' button with value 'Male'
+[2022-11-28 09:48:01,461] Register - Step 03: Enter to First Name textbox with value is Dolly
+[2022-11-28 09:48:01,551] Register - Step 04: Enter to Last Name textbox with value is Moen
+[2022-11-28 09:48:01,641] Register - Step 05: Select date in Day dropdown with value is 30
+[2022-11-28 09:48:01,989] Register - Step 06: Select month in Month dropdown with value is May
+[2022-11-28 09:48:02,295] Register - Step 07: Select year in Year dropdown with value is 1993
+[2022-11-28 09:48:02,597] Register - Step 08: Enter to Email textbox with value is shirley.brakus@gmail.com
+[2022-11-28 09:48:02,692] Register - Step 09: Enter to Password textbox with value is cd5r4inql29odt
+[2022-11-28 09:48:02,787] Register - Step 10: Enter to Confirm Password textbox with value is cd5r4inql29odt
+[2022-11-28 09:48:02,878] Register - Step 11: Click to 'News letter' checkbox
+[2022-11-28 09:48:02,928] Register - Step 12: Click to 'Register' button
+[2022-11-28 09:48:03,664] Register - Step 13: Verify the 'Success Message' is displayed
+[2022-11-28 09:48:03,724]  -------------------------- PASSED -------------------------- 
+[2022-11-28 09:48:03,724] Register - Step 14: Click to 'Log out' link
+[2022-11-28 09:48:04,563] Login - Step 01: Click to 'Login' link
+[2022-11-28 09:48:05,039] Login - Step 02: Enter to Email textbox with value is shirley.brakus@gmail.com
+[2022-11-28 09:48:05,131] Login - Step 03: Enter to Password textbox with value is cd5r4inql29odt
+[2022-11-28 09:48:05,221] Login - Step 04: Click to 'Login' button
+[2022-11-28 09:48:05,900] My Account - Step 01: Click to 'My Account' link
+[2022-11-28 09:48:06,369] My Account - Step 02: Verify 'Customer Info' page is displayed
+[2022-11-28 09:48:06,430]  -------------------------- PASSED -------------------------- 
+[2022-11-28 09:48:06,430] My Account - Step 03: Verify 'First Name' value is correctly
+[2022-11-28 09:48:06,488]  -------------------------- PASSED -------------------------- 
+[2022-11-28 09:48:06,489] My Account - Step 03: Verify 'Last Name' value is correctly
+[2022-11-28 09:48:06,552]  -------------------------- PASSED -------------------------- 
+[2022-11-28 09:48:06,552] My Account - Step 03: Verify 'Email' value is correctly
+[2022-11-28 09:48:06,616]  -------------------------- PASSED -------------------------- 
+[2022-11-28 09:48:06,619] OS name = windows 11
+[2022-11-28 09:48:06,619] Driver instance name = firefoxdriver: firefox on windows (c6306b1d-f936-41ed-b2f7-4fdba41a1a2b)
+[2022-11-28 09:51:16,087] OS name = windows 11
+[2022-11-28 09:51:16,088] 
+[2022-11-28 09:53:26,370] Register - Step 01: Click to 'Register' link
+[2022-11-28 09:53:27,482] Register - Step 02: Click to 'Radio' button with value 'Male'
+[2022-11-28 09:53:27,792] Register - Step 03: Enter to First Name textbox with value is Rudy
+[2022-11-28 09:53:27,885] Register - Step 04: Enter to Last Name textbox with value is Krajcik
+[2022-11-28 09:53:27,981] Register - Step 05: Select date in Day dropdown with value is 30
+[2022-11-28 09:53:28,325] Register - Step 06: Select month in Month dropdown with value is May
+[2022-11-28 09:53:28,653] Register - Step 07: Select year in Year dropdown with value is 1993
+[2022-11-28 09:53:28,982] Register - Step 08: Enter to Email textbox with value is christene.bahringer@hotmail.com
+[2022-11-28 09:53:29,085] Register - Step 09: Enter to Password textbox with value is 466pad9g3v7i1
+[2022-11-28 09:53:29,174] Register - Step 10: Enter to Confirm Password textbox with value is 466pad9g3v7i1
+[2022-11-28 09:53:29,266] Register - Step 11: Click to 'News letter' checkbox
+[2022-11-28 09:53:29,328] Register - Step 12: Click to 'Register' button
+[2022-11-28 09:53:30,108] Register - Step 13: Verify the 'Success Message' is displayed
+[2022-11-28 09:53:30,162]  -------------------------- PASSED -------------------------- 
+[2022-11-28 09:53:30,163] Register - Step 14: Click to 'Log out' link
+[2022-11-28 09:53:30,947] Login - Step 01: Click to 'Login' link
+[2022-11-28 09:53:31,441] Login - Step 02: Enter to Email textbox with value is christene.bahringer@hotmail.com
+[2022-11-28 09:53:31,535] Login - Step 03: Enter to Password textbox with value is 466pad9g3v7i1
+[2022-11-28 09:53:31,624] Login - Step 04: Click to 'Login' button
+[2022-11-28 09:53:32,307] My Account - Step 01: Click to 'My Account' link
+[2022-11-28 09:53:32,804] My Account - Step 02: Verify 'Customer Info' page is displayed
+[2022-11-28 09:53:32,865]  -------------------------- PASSED -------------------------- 
+[2022-11-28 09:53:32,865] My Account - Step 03: Verify 'First Name' value is correctly
+[2022-11-28 09:53:32,923]  -------------------------- PASSED -------------------------- 
+[2022-11-28 09:53:32,923] My Account - Step 03: Verify 'Last Name' value is correctly
+[2022-11-28 09:53:32,985]  -------------------------- PASSED -------------------------- 
+[2022-11-28 09:53:32,985] My Account - Step 03: Verify 'Email' value is correctly
+[2022-11-28 09:53:33,049]  -------------------------- PASSED -------------------------- 
+[2022-11-28 09:53:33,052] OS name = windows 11
+[2022-11-28 09:53:33,052] Driver instance name = firefoxdriver: firefox on windows (a8a33fbf-2cec-48af-ab84-e877f76213c2)
